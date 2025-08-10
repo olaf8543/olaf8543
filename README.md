@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me
 
-Embedded and Full-Stack developer<br>Studying Software Engineering at Rochester Institute of Technology.
+Embedded and Full-Stack developer studying Software Engineering at Rochester Institute of Technology.
 
 # 💻 Tech Stack
 
